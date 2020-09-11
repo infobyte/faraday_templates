@@ -1,0 +1,2 @@
+# Faraday Templates
+
